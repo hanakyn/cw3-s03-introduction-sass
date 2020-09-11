@@ -1,0 +1,13 @@
+.nav-principale {
+  display: flex;
+  justify-content: flex-end;
+
+  ul {
+    display: flex;
+  }
+
+  li {
+    margin: 0 var(--marge-petit);
+  }
+
+}
